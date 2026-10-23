@@ -11,4 +11,4 @@ https://github.com/Willhenryfj/GroupProject2
 - Aryn
 - KC
 
-# UTN Server Deployment and System Testing
+# UNT Server Deployment and System Testing
